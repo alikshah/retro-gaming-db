@@ -1,0 +1,14 @@
+{
+    "recommendations": [
+        "wmaurer.change-case",
+        "yzhang.markdown-all-in-one",
+        "cweijan.vscode-office",
+        "davidanson.vscode-markdownlint",
+        "streetsidesoftware.code-spell-checker",
+        "bierner.markdown-mermaid",
+        "bpruitt-goddard.mermaid-markdown-syntax-highlighting",
+        "vscode-icons-team.vscode-icons",
+        "tomoyukim.vscode-mermaid-editor",
+        "jannisx11.batch-rename-extension"
+    ]
+}
